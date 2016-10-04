@@ -1,12 +1,17 @@
 iOS and macOS Developement Resources
 ====================================
 
+- [Swift Language](#swift-language)
 - [iOS 10 Informations and Tutorials](#ios-10-informations-and=tutorials)
 - [Auto Layout or Alternatives](#auto-layout-or-alternatives)
 - [Audio Programming](#audio-programming)
 - [Command Line](#command-line)
 - [Xcode](#xcode)
 - [Other Open Source Applications](#other-open-source-applications)
+
+## Swift Language
+
+- [Swift Programming Language Evolution: Proposal Status](https://apple.github.io/swift-evolution/)
 
 ## iOS 10 Informations and Tutorials
 
