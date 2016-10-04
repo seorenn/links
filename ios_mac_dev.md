@@ -4,6 +4,8 @@ iOS and macOS Developement Resources
 - [iOS 10 Informations and Tutorials](#ios-10-informations-and=tutorials)
 - [Auto Layout of Alternatives](#auto-layout-or-alternatives)
 - [Audio Programming](#audio-programming)
+- [Command Line](#command-line)
+- [Xcode](#xcode)
 - [Other Open Source Applications](#other-open-source-applications)
 
 ## iOS 10 Informations and Tutorials
