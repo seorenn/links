@@ -6,6 +6,7 @@ iOS and macOS Developement Resources
 - [Auto Layout or Alternatives](#auto-layout-or-alternatives)
 - [Audio Programming](#audio-programming)
 - [Command Line](#command-line)
+- [macOS App Tutorials](#macos-app-tutorials)
 - [Xcode](#xcode)
 - [Other Open Source Applications](#other-open-source-applications)
 
@@ -32,6 +33,10 @@ iOS and macOS Developement Resources
 ## Command Line
 
 - [Command Line Programs on macOS Tutorial](https://www.raywenderlich.com/128039/command-line-programs-macos-tutorial)
+
+## macOS App Tutorials
+
+- [A Sidebar with collapsable sub-views for macOS in Swift](http://jpopham.github.io/01-sidebar-swift-OSX/)
 
 ## Xcode
 
