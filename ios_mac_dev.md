@@ -34,6 +34,10 @@ iOS and macOS Developement Resources
 
 - [Command Line Programs on macOS Tutorial](https://www.raywenderlich.com/128039/command-line-programs-macos-tutorial)
 
+## Foundation
+
+- [NSURL 인코딩](http://kyejusung.com/2016/10/objectivec-url-인코딩/)
+
 ## macOS App Tutorials
 
 - [A Sidebar with collapsable sub-views for macOS in Swift](http://jpopham.github.io/01-sidebar-swift-OSX/)
