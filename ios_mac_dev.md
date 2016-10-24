@@ -49,6 +49,7 @@ iOS and macOS Developement Resources
 - [What every iOS Developer should be doing with Instruments](https://medium.com/@kazmiekr/what-every-ios-developer-should-be-doing-with-instruments-d1661eeaf64f#.omiaq9tm7)
   - [왜 모든 iOS 개발자는 Instruments를 써야하는가](http://canapio.tistory.com/44): Korean Translation
 - [One Weird Trick to Fix Autocomplete in Xcode](https://medium.com/@_achou/one-weird-trick-to-fix-autocomplete-in-xcode-9f19dc856944#.wiy9hgop6)
+- [Test Your App On Any Device You Want, Without The Hardware From the Command Line](https://medium.com/ios-os-x-development/test-your-app-on-any-device-you-want-without-the-hardware-from-the-command-line-6e2533fbb4a9#.57b4109ml)
 
 ## Other Open Source Applications
 
