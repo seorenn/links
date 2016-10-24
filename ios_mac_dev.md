@@ -42,6 +42,7 @@ iOS and macOS Developement Resources
 ## macOS App Tutorials
 
 - [A Sidebar with collapsable sub-views for macOS in Swift](http://jpopham.github.io/01-sidebar-swift-OSX/)
+- [OSX Dev Daily (Youtube Playlist)](https://www.youtube.com/playlist?list=PLU03ExiIcAUsqTHAiZTY-zV8B5bfRHqg9)
 
 ## Xcode
 
