@@ -20,6 +20,7 @@ iOS and macOS Developement Resources
 - [Notifications in iOS 10](https://swifting.io/blog/2016/08/22/23-notifications-in-ios-10/): APNS
 - [A quick look at UIViewPropertyAnimator](https://medium.com/swift-and-ios-writing/a-quick-look-at-uiviewpropertyanimator-a107fb9da5b5#.6cunaoj2n)
 - [iOS 10 Day by Day](https://www.shinobicontrols.com/blog?tag=ios10daybyday): Thread Sanitizer, UIViewPropertyAnimator, User Notifications, Measurment, Speech, SiriKit, and etc...
+  - [iOS 10 Day by Day (github)](https://github.com/shinobicontrols/iOS10-day-by-day)
 
 ## Auto Layout or Alternatives
 
