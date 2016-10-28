@@ -2,7 +2,8 @@ iOS and macOS Developement Resources
 ====================================
 
 - [Swift Language](#swift-language)
-- [iOS 10 Informations and Tutorials](#ios-10-informations-and=tutorials)
+- [iOS 10 Informations and Tutorials](#ios-10-informations-and-tutorials)
+- [Graphics and Animations](#graphics-and-animations)
 - [Auto Layout or Alternatives](#auto-layout-or-alternatives)
 - [Audio Programming](#audio-programming)
 - [Command Line](#command-line)
@@ -21,6 +22,10 @@ iOS and macOS Developement Resources
 - [A quick look at UIViewPropertyAnimator](https://medium.com/swift-and-ios-writing/a-quick-look-at-uiviewpropertyanimator-a107fb9da5b5#.6cunaoj2n)
 - [iOS 10 Day by Day](https://www.shinobicontrols.com/blog?tag=ios10daybyday): Thread Sanitizer, UIViewPropertyAnimator, User Notifications, Measurment, Speech, SiriKit, and etc...
   - [iOS 10 Day by Day (github)](https://github.com/shinobicontrols/iOS10-day-by-day)
+
+## Graphics and Animations
+
+- [Macaw](https://github.com/exyte/Macaw): Macaw is a powerful and easy-to-use vector graphics library written in Swift.
 
 ## Auto Layout or Alternatives
 
