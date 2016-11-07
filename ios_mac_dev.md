@@ -3,6 +3,7 @@ iOS and macOS Developement Resources
 
 - [Swift Language](#swift-language)
 - [iOS 10 Informations and Tutorials](#ios-10-informations-and-tutorials)
+- [UI Components](#ui-components)
 - [Text](#text)
 - [Graphics and Animations](#graphics-and-animations)
 - [Auto Layout or Alternatives](#auto-layout-or-alternatives)
@@ -24,6 +25,11 @@ iOS and macOS Developement Resources
 - [iOS 10 Day by Day](https://www.shinobicontrols.com/blog?tag=ios10daybyday): Thread Sanitizer, UIViewPropertyAnimator, User Notifications, Measurment, Speech, SiriKit, and etc...
   - [iOS 10 Day by Day (github)](https://github.com/shinobicontrols/iOS10-day-by-day)
   
+## UI Components
+
+- [KRWordWrapLabel](https://github.com/inkyfox/KRWordWrapLabel): UILabel subclass which provides Word Wrap based on white spaces not depending on languages. 한글의 단어 단위 줄바꿈이 가능한 UILabel
+- [ZoomImageView](https://github.com/muukii/ZoomImageView): UI component library to expand the photo, such as Apple's Photos app.
+
 ## Text
 
 - [TextAttributes](https://github.com/delba/TextAttributes): TextAttributes makes it easy to compose attributed strings.
