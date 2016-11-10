@@ -81,3 +81,4 @@ iOS and macOS Developement Resources
 ## Etc
 
 - [시작하는 스타트업을 위한 iOS 개발 환경 1/2](https://medium.com/@codesquad_yoda/시작하는-스타트업을-위한-ios-개발-환경-1-2-b0bd0b9a34b#.nohzxrtfr)
+- [Luminous](https://github.com/andrealufino/Luminous): Luminous gives you all the (iOS) system information you need!
