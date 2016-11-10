@@ -12,6 +12,7 @@ iOS and macOS Developement Resources
 - [macOS App Tutorials](#macos-app-tutorials)
 - [Xcode](#xcode)
 - [Other Open Source Applications](#other-open-source-applications)
+- [Etc](#etc)
 
 ## Swift Language
 
@@ -24,7 +25,8 @@ iOS and macOS Developement Resources
 - [A quick look at UIViewPropertyAnimator](https://medium.com/swift-and-ios-writing/a-quick-look-at-uiviewpropertyanimator-a107fb9da5b5#.6cunaoj2n)
 - [iOS 10 Day by Day](https://www.shinobicontrols.com/blog?tag=ios10daybyday): Thread Sanitizer, UIViewPropertyAnimator, User Notifications, Measurment, Speech, SiriKit, and etc...
   - [iOS 10 Day by Day (github)](https://github.com/shinobicontrols/iOS10-day-by-day)
-  
+- [Learn How to Build an iMessage App with Swift](https://medium.com/swift-programming/learn-how-to-build-an-imessage-app-with-swift-7b106ce9b033#.duovz9q21): Messages Framework
+
 ## UI Components
 
 - [KRWordWrapLabel](https://github.com/inkyfox/KRWordWrapLabel): UILabel subclass which provides Word Wrap based on white spaces not depending on languages. 한글의 단어 단위 줄바꿈이 가능한 UILabel
@@ -75,3 +77,7 @@ iOS and macOS Developement Resources
 
 - [SweetPlayer](https://github.com/singcodes/SweetPlayer): simple movie player for macOS
 - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic): macOS audio utility
+
+## Etc
+
+- [시작하는 스타트업을 위한 iOS 개발 환경 1/2](https://medium.com/@codesquad_yoda/시작하는-스타트업을-위한-ios-개발-환경-1-2-b0bd0b9a34b#.nohzxrtfr)
