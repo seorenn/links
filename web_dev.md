@@ -1,7 +1,12 @@
 Web Development Resources
 ===============================
 
+- [CSS](#css)
 - [Tools](#tools)
+
+## CSS
+
+- [cssreference.io](http://cssreference.io/): cssreference.io is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
 
 ## Tools
 
