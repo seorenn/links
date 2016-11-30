@@ -1,7 +1,14 @@
 Python Development Resources
 ============================
 
+- [General](#general)
 - [Working with macOS](#working-with-macos)
+- [Mathmatics and Sciences](#mathmatics-and-sciences)
+- [Flask](#flask)
+
+## General
+
+- [Python Cheatsheet](https://www.pythonsheets.com)
 
 ## Working with macOS
 
