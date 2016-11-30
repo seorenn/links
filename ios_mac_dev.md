@@ -44,6 +44,7 @@ iOS and macOS, Swift Developement Resources
 - [Macaw](https://github.com/exyte/Macaw): Macaw is a powerful and easy-to-use vector graphics library written in Swift.
 - [UIImageColors](https://github.com/jathu/UIImageColors): iTunes style color fetcher for UIImage.
 - [Swift 3: So I Wanted To Animate A Label…](https://medium.com/@cocotutch/swift-3-so-i-wanted-to-animate-a-label-14dd2b332ef9#.o2l9w96gb): AKA: Why I Love CADisplayLink, And You Should Too!
+- [Jelly](https://github.com/SebastianBoldt/Jelly): Jelly provides custom view controller transitions in iOS with just a few lines of code
 
 ## Auto Layout or Alternatives
 
@@ -84,6 +85,7 @@ iOS and macOS, Swift Developement Resources
 
 - [시작하는 스타트업을 위한 iOS 개발 환경 1/2](https://medium.com/@codesquad_yoda/시작하는-스타트업을-위한-ios-개발-환경-1-2-b0bd0b9a34b#.nohzxrtfr)
 - [Luminous](https://github.com/andrealufino/Luminous): Luminous gives you all the (iOS) system information you need!
+- [AREK](https://github.com/ennioma/arek): AREK is a clean and easy to use wrapper over any kind of iOS permission.
 
 ## Server Side
 

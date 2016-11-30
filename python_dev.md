@@ -17,6 +17,7 @@ Python Development Resources
 ## Mathmatics and Sciences
 
 - [python 수학이해하기](http://www.slideshare.net/dahlmoon/20160730): Python Sympy 수, 심벌, 전개식, 해 구하기 처리
+- [NumPy Tutorial](http://www.dataquest.io/blog/numpy-tutorial-python/): Data analysis with Python
 
 ## Flask
 
