@@ -43,6 +43,7 @@ iOS and macOS, Swift Developement Resources
 
 - [Macaw](https://github.com/exyte/Macaw): Macaw is a powerful and easy-to-use vector graphics library written in Swift.
 - [UIImageColors](https://github.com/jathu/UIImageColors): iTunes style color fetcher for UIImage.
+- [Swift 3: So I Wanted To Animate A Label…](https://medium.com/@cocotutch/swift-3-so-i-wanted-to-animate-a-label-14dd2b332ef9#.o2l9w96gb): AKA: Why I Love CADisplayLink, And You Should Too!
 
 ## Auto Layout or Alternatives
 
