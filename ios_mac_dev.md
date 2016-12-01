@@ -75,11 +75,13 @@ iOS and macOS, Swift Developement Resources
   - [왜 모든 iOS 개발자는 Instruments를 써야하는가](http://canapio.tistory.com/44): Korean Translation
 - [One Weird Trick to Fix Autocomplete in Xcode](https://medium.com/@_achou/one-weird-trick-to-fix-autocomplete-in-xcode-9f19dc856944#.wiy9hgop6)
 - [Test Your App On Any Device You Want, Without The Hardware From the Command Line](https://medium.com/ios-os-x-development/test-your-app-on-any-device-you-want-without-the-hardware-from-the-command-line-6e2533fbb4a9#.57b4109ml)
+- [Some Practical Uses for Xcode Build Schemes and Build Configurations (Swift)](https://medium.com/@theobendixson/some-practical-uses-for-xcode-build-schemes-and-build-configurations-swift-e50d15a1304f#.qrtdvnn2e)
 
-## Other Open Source Applications
+## Other Open Source Applications and Samples
 
 - [SweetPlayer](https://github.com/singcodes/SweetPlayer): simple movie player for macOS
 - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic): macOS audio utility
+- [MyTabbedView](https://github.com/Dis3buted/MyTabbedView): Just plain implementation of tabbed windows, single window app, storyboard, using newWindowForTab
 
 ## Etc
 
