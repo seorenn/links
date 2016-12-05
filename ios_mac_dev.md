@@ -27,6 +27,7 @@ iOS and macOS, Swift Developement Resources
 - [iOS 10 Day by Day](https://www.shinobicontrols.com/blog?tag=ios10daybyday): Thread Sanitizer, UIViewPropertyAnimator, User Notifications, Measurment, Speech, SiriKit, and etc...
   - [iOS 10 Day by Day (github)](https://github.com/shinobicontrols/iOS10-day-by-day)
 - [Learn How to Build an iMessage App with Swift](https://medium.com/swift-programming/learn-how-to-build-an-imessage-app-with-swift-7b106ce9b033#.duovz9q21): Messages Framework
+- [Refresh Control Changes in iOS 10](http://useyourloaf.com/blog/refresh-control-changes-in-ios-10/): UIRefreshControl
 
 ## UI Components
 
