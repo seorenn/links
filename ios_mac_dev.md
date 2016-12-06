@@ -47,6 +47,7 @@ iOS and macOS, Swift Developement Resources
 - [UIImageColors](https://github.com/jathu/UIImageColors): iTunes style color fetcher for UIImage.
 - [Swift 3: So I Wanted To Animate A Label…](https://medium.com/@cocotutch/swift-3-so-i-wanted-to-animate-a-label-14dd2b332ef9#.o2l9w96gb): AKA: Why I Love CADisplayLink, And You Should Too!
 - [Jelly](https://github.com/SebastianBoldt/Jelly): Jelly provides custom view controller transitions in iOS with just a few lines of code
+- [RembrandtSwift](https://github.com/imgly/RembrandtSwift): RembrandtSwift is an image comparison library for swift 3 with objective-C bindings
 
 ## Auto Layout or Alternatives
 
