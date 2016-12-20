@@ -1,8 +1,6 @@
 Seorenn's link collections
 ==========================
 
-- [Development Resources](#development-resources)
-
 ## Development Resources
 
 - [iOS and macOS, Swift Development Resources](https://github.com/seorenn/links/blob/master/ios_mac_dev.md)
@@ -13,4 +11,5 @@ Seorenn's link collections
 
 ## Privates
 
+- [macOS Tips](https://github.com/seorenn/links/blob/master/macos.md)
 - [Games](https://github.com/seorenn/links/blob/master/game.md)
