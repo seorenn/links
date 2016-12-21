@@ -92,7 +92,7 @@ iOS and macOS, Swift Developement Resources
 - [시작하는 스타트업을 위한 iOS 개발 환경 1/2](https://medium.com/@codesquad_yoda/시작하는-스타트업을-위한-ios-개발-환경-1-2-b0bd0b9a34b#.nohzxrtfr)
 - [Luminous](https://github.com/andrealufino/Luminous): Luminous gives you all the (iOS) system information you need!
 - [AREK](https://github.com/ennioma/arek): AREK is a clean and easy to use wrapper over any kind of iOS permission.
-- [Wrapping C Code Within a Single Swift Package]:(http://www.bensnider.com/wrapping-c-code-within-a-single-swift-package.html)
+- [Wrapping C Code Within a Single Swift Package](http://www.bensnider.com/wrapping-c-code-within-a-single-swift-package.html)
 
 ## Server Side
 
