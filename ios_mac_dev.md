@@ -8,6 +8,7 @@ iOS and macOS, Swift Developement Resources
 - [Graphics and Animations](#graphics-and-animations)
 - [Auto Layout or Alternatives](#auto-layout-or-alternatives)
 - [Audio Programming](#audio-programming)
+- [Database and CoreData](#database-and-coredata)
 - [Command Line](#command-line)
 - [macOS App Tutorials](#macos-app-tutorials)
 - [Xcode](#xcode)
@@ -59,6 +60,10 @@ iOS and macOS, Swift Developement Resources
 ## Audio Programming
 
 - [AudioKit](https://github.com/audiokit/AudioKit): AudioKit is an audio synthesis, processing, and analysis platform for iOS, macOS, tvOS
+
+## Database and CoreData
+
+- [Beginner's Guide to Core Data in Swift 3](https://medium.com/ios-geek-community/beginners-guide-to-core-data-in-swift-3-85292ef4edd#.v3buq0o11)
 
 ## Command Line
 
