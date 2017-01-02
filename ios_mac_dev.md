@@ -41,6 +41,7 @@ iOS and macOS, Swift Developement Resources
 
 - [TextAttributes](https://github.com/delba/TextAttributes): TextAttributes makes it easy to compose attributed strings.
 - [BonMot](https://github.com/Raizlabs/BonMot): BonMot (pronounced Bon Mo, French for good word) is an iOS attributed string generation library. It abstracts away the advanced iOS typography tools, freeing you to focus on making your text beautiful.
+- [SwiftRichString](https://github.com/malcommac/SwiftRichString): Elegant & Painless Attributed Strings Management Library in Swift
 
 ## Graphics and Animations
 
