@@ -94,6 +94,7 @@ iOS and macOS, Swift Developement Resources
 - [SweetPlayer](https://github.com/singcodes/SweetPlayer): simple movie player for macOS
 - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic): macOS audio utility
 - [MyTabbedView](https://github.com/Dis3buted/MyTabbedView): Just plain implementation of tabbed windows, single window app, storyboard, using newWindowForTab
+- [iina](https://github.com/lhc70000/iina): The modern video player for macOS. https://lhc70000.github.io/iina/
 
 ## Etc
 
