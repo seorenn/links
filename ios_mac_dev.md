@@ -4,7 +4,7 @@ iOS and macOS, Swift Developement Resources
 - [Swift Language](#swift-language)
 - [iOS 10 Informations and Tutorials](#ios-10-informations-and-tutorials)
 - [UI Components](#ui-components)
-- [Text](#text)
+- [Text and Font](#text-and-font)
 - [Graphics and Animations](#graphics-and-animations)
 - [Auto Layout or Alternatives](#auto-layout-or-alternatives)
 - [Audio Programming](#audio-programming)
@@ -37,11 +37,12 @@ iOS and macOS, Swift Developement Resources
 - [EZYGradientView-ObjC](https://github.com/shashankpali/EZYGradientView-ObjC): Create gradients and blur gradients without a single line of code.
 - [RATreeView](https://github.com/Augustyniak/RATreeView): Library providing easy-to-use interface for displaying tree strtuctures on iOS and tvOS.
 
-## Text
+## Text and Font
 
 - [TextAttributes](https://github.com/delba/TextAttributes): TextAttributes makes it easy to compose attributed strings.
 - [BonMot](https://github.com/Raizlabs/BonMot): BonMot (pronounced Bon Mo, French for good word) is an iOS attributed string generation library. It abstracts away the advanced iOS typography tools, freeing you to focus on making your text beautiful.
 - [SwiftRichString](https://github.com/malcommac/SwiftRichString): Elegant & Painless Attributed Strings Management Library in Swift
+- [Handling Fonts in iOS Development, a Simpler Way](https://medium.com/compileswift/handling-fonts-in-ios-development-a-simpler-way-32d360cdc1b6#.t6k3ntquk)
 
 ## Graphics and Animations
 
