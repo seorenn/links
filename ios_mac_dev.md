@@ -72,6 +72,7 @@ iOS and macOS, Swift Developement Resources
 ## Camera
 
 - [SwiftyCam](https://github.com/Awalz/SwiftyCam): SwiftyCam is a a simple, Snapchat-style iOS Camera framework for easy photo and video capture. SwiftyCam allows users to capture both photos and videos from the same session with very little configuration.
+- [iOS - Camera Frames Extraction](https://medium.com/ios-os-x-development/ios-camera-frames-extraction-d2c0f80ed05a#.d3gn6hd57)
 
 ## Command Line
 
