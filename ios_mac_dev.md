@@ -9,6 +9,7 @@ iOS and macOS, Swift Developement Resources
 - [Auto Layout or Alternatives](#auto-layout-or-alternatives)
 - [Audio Programming](#audio-programming)
 - [Database and CoreData](#database-and-coredata)
+- [Camera](#camera)
 - [Command Line](#command-line)
 - [macOS App Tutorials](#macos-app-tutorials)
 - [Xcode](#xcode)
@@ -62,10 +63,15 @@ iOS and macOS, Swift Developement Resources
 ## Audio Programming
 
 - [AudioKit](https://github.com/audiokit/AudioKit): AudioKit is an audio synthesis, processing, and analysis platform for iOS, macOS, tvOS
+- [RhythmBox](https://github.com/manuelescrig/RhythmBox): A Rhythm Box System for your iOS app. The easiest way to create Music Rhythm Patterns in Swift.
 
 ## Database and CoreData
 
 - [Beginner's Guide to Core Data in Swift 3](https://medium.com/ios-geek-community/beginners-guide-to-core-data-in-swift-3-85292ef4edd#.v3buq0o11)
+
+## Camera
+
+- [SwiftyCam](https://github.com/Awalz/SwiftyCam): SwiftyCam is a a simple, Snapchat-style iOS Camera framework for easy photo and video capture. SwiftyCam allows users to capture both photos and videos from the same session with very little configuration.
 
 ## Command Line
 
