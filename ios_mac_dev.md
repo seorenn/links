@@ -13,6 +13,7 @@ iOS and macOS, Swift Developement Resources
 - [Command Line](#command-line)
 - [macOS App Tutorials](#macos-app-tutorials)
 - [Xcode](#xcode)
+- [Tests](#tests)
 - [Other Open Source Applications](#other-open-source-applications)
 - [Etc](#etc)
 - [Server Side](#server-side)
@@ -37,6 +38,7 @@ iOS and macOS, Swift Developement Resources
 - [ZoomImageView](https://github.com/muukii/ZoomImageView): UI component library to expand the photo, such as Apple's Photos app.
 - [EZYGradientView-ObjC](https://github.com/shashankpali/EZYGradientView-ObjC): Create gradients and blur gradients without a single line of code.
 - [RATreeView](https://github.com/Augustyniak/RATreeView): Library providing easy-to-use interface for displaying tree strtuctures on iOS and tvOS.
+- [Eureka](https://github.com/xmartlabs/Eureka): Elegant iOS form builder in Swift
 
 ## Text and Font
 
@@ -95,6 +97,10 @@ iOS and macOS, Swift Developement Resources
 - [Test Your App On Any Device You Want, Without The Hardware From the Command Line](https://medium.com/ios-os-x-development/test-your-app-on-any-device-you-want-without-the-hardware-from-the-command-line-6e2533fbb4a9#.57b4109ml)
 - [Some Practical Uses for Xcode Build Schemes and Build Configurations (Swift)](https://medium.com/@theobendixson/some-practical-uses-for-xcode-build-schemes-and-build-configurations-swift-e50d15a1304f#.qrtdvnn2e)
 - [My Favorite Xcode 8 Shortcuts Part 1](https://medium.com/ios-geek-community/bobs-favorite-xcode-8-shortcuts-part-1-3-36381e07284d#.rd2jsfqv9), [Part 2](https://medium.com/ios-geek-community/bobs-favorite-xcode-shortcuts-part-2-3-c076e506cd20#.l7v06qkfp), [Part 3](https://medium.com/ios-geek-community/bobs-favorite-xcode-8-shortcuts-part-3-3-afd2bf590442#.lqauysgj8)
+
+## Tests
+
+- [SwiftMonkey](https://github.com/zalando/SwiftMonkey): This project is a framework for generating randomised user input in iOS apps. This kind of monkey testing is useful for stress-testing apps and finding rare crashes.
 
 ## Other Open Source Applications and Samples
 
