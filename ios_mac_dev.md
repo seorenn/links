@@ -24,6 +24,7 @@ iOS and macOS, Swift Developement Resources
 
 ## iOS 10 Informations and Tutorials
 
+- [Swift Evolution](https://apple.github.io/swift-evolution/)
 - [iOS 10 Sampler](https://github.com/shu223/iOS-10-Sampler): code examples for new APIs of iOS 10
 - [Notifications in iOS 10](https://swifting.io/blog/2016/08/22/23-notifications-in-ios-10/): APNS
 - [A quick look at UIViewPropertyAnimator](https://medium.com/swift-and-ios-writing/a-quick-look-at-uiviewpropertyanimator-a107fb9da5b5#.6cunaoj2n)
@@ -55,6 +56,7 @@ iOS and macOS, Swift Developement Resources
 - [Jelly](https://github.com/SebastianBoldt/Jelly): Jelly provides custom view controller transitions in iOS with just a few lines of code
 - [RembrandtSwift](https://github.com/imgly/RembrandtSwift): RembrandtSwift is an image comparison library for swift 3 with objective-C bindings
 - [Animator](https://github.com/vishalvshekkar/Animator): Animator is a block-based UIView animation helper which enables complex animations to be performed with ease.
+- [Mystique](https://github.com/gbammc/Mystique): Mystique wraps CoreAnimation with a nicer syntax to help you build up awesome animations.
 
 ## Auto Layout or Alternatives
 
