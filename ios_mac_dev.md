@@ -71,6 +71,7 @@ iOS and macOS, Swift Developement Resources
 
 - [AudioKit](https://github.com/audiokit/AudioKit): AudioKit is an audio synthesis, processing, and analysis platform for iOS, macOS, tvOS
 - [RhythmBox](https://github.com/manuelescrig/RhythmBox): A Rhythm Box System for your iOS app. The easiest way to create Music Rhythm Patterns in Swift.
+- [플레이그라운드로 배우는 AudioKit](https://outofbedlam.github.io/swift/2016/12/02/AudioKit/)
 
 ## Database and CoreData
 
