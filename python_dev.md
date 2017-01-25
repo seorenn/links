@@ -13,6 +13,7 @@ Python Development Resources
 ## Working with macOS
 
 - [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)
+- [pyenv, virtualenv, autoenv를 활용한 자동화 구현하기](http://blog.everypython.com/post/14/)
 
 ## Mathmatics and Sciences
 

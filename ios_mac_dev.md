@@ -40,6 +40,7 @@ iOS and macOS, Swift Developement Resources
 - [EZYGradientView-ObjC](https://github.com/shashankpali/EZYGradientView-ObjC): Create gradients and blur gradients without a single line of code.
 - [RATreeView](https://github.com/Augustyniak/RATreeView): Library providing easy-to-use interface for displaying tree strtuctures on iOS and tvOS.
 - [Eureka](https://github.com/xmartlabs/Eureka): Elegant iOS form builder in Swift
+- [KeyboardHideManager](https://github.com/bonyadmitr/KeyboardHideManager): codeless manager to hide keyboard by tapping on views for iOS written in Swift.
 
 ## Text and Font
 
@@ -57,6 +58,8 @@ iOS and macOS, Swift Developement Resources
 - [RembrandtSwift](https://github.com/imgly/RembrandtSwift): RembrandtSwift is an image comparison library for swift 3 with objective-C bindings
 - [Animator](https://github.com/vishalvshekkar/Animator): Animator is a block-based UIView animation helper which enables complex animations to be performed with ease.
 - [Mystique](https://github.com/gbammc/Mystique): Mystique wraps CoreAnimation with a nicer syntax to help you build up awesome animations.
+- [Animating Constraints Using iOS 10’s New UIViewPropertyAnimator](https://medium.com/@sdrzn/animating-constraints-using-ios-10s-new-uiviewpropertyanimator-944bbb42347b#.3e63qxlkc) ()This tutorial using [SnapKit](http://snapkit.io) - An Auto Layout DSL for iOS & OSX)
+- [Hero](https://github.com/lkzhao/Hero): Hero is a library for building iOS view controller transitions. It provides a layout on top of the UIKit's cumbersome transition APIs. Making custom transitions an easy task for developers.
 
 ## Auto Layout or Alternatives
 
@@ -72,6 +75,7 @@ iOS and macOS, Swift Developement Resources
 ## Database and CoreData
 
 - [Beginner's Guide to Core Data in Swift 3](https://medium.com/ios-geek-community/beginners-guide-to-core-data-in-swift-3-85292ef4edd#.v3buq0o11)
+- [Pencil](https://github.com/naru-jpn/pencil): Use of value types is recommended and we define standard values, simple structured data, application state and etc. as struct or enum. Pencil makes us store these values more easily.
 
 ## Camera
 
