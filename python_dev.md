@@ -2,7 +2,7 @@ Python Development Resources
 ============================
 
 - [General](#general)
-- [Working with macOS](#working-with-macos)
+- [Development Environment](#development-environment)
 - [Mathmatics and Sciences](#mathmatics-and-sciences)
 - [Flask](#flask)
 
@@ -10,10 +10,11 @@ Python Development Resources
 
 - [Python Cheatsheet](https://www.pythonsheets.com)
 
-## Working with macOS
+## Development Environment
 
 - [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)
 - [pyenv, virtualenv, autoenv를 활용한 자동화 구현하기](http://blog.everypython.com/post/14/)
+- [Pipenv](https://github.com/kennethreitz/pipenv): Pipenv is an experimental project that aims to bring the best of all packaging worlds to the Python world. It harnesses Pipfile, pip, and virtualenv into one single toolchain. It features very pretty terminal colors.
 
 ## Mathmatics and Sciences
 
