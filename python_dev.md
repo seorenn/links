@@ -4,6 +4,7 @@ Python Development Resources
 - [General](#general)
 - [Development Environment](#development-environment)
 - [Mathmatics and Sciences](#mathmatics-and-sciences)
+- [Debug](#debug)
 - [Flask](#flask)
 
 ## General
@@ -20,6 +21,10 @@ Python Development Resources
 
 - [python 수학이해하기](http://www.slideshare.net/dahlmoon/20160730): Python Sympy 수, 심벌, 전개식, 해 구하기 처리
 - [NumPy Tutorial](http://www.dataquest.io/blog/numpy-tutorial-python/): Data analysis with Python
+
+## Debug
+
+- [cgitb - Detailed traceback reports](https://pymotw.com/2/cgitb/): cgitb is valuable debugging tool in the standard library.
 
 ## Flask
 
