@@ -60,6 +60,7 @@ iOS and macOS, Swift Developement Resources
 - [Mystique](https://github.com/gbammc/Mystique): Mystique wraps CoreAnimation with a nicer syntax to help you build up awesome animations.
 - [Animating Constraints Using iOS 10’s New UIViewPropertyAnimator](https://medium.com/@sdrzn/animating-constraints-using-ios-10s-new-uiviewpropertyanimator-944bbb42347b#.3e63qxlkc) ()This tutorial using [SnapKit](http://snapkit.io) - An Auto Layout DSL for iOS & OSX)
 - [Hero](https://github.com/lkzhao/Hero): Hero is a library for building iOS view controller transitions. It provides a layout on top of the UIKit's cumbersome transition APIs. Making custom transitions an easy task for developers.
+- [Lottie for iOS](https://github.com/airbnb/lottie-ios): Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with bodymovin and renders the vector animations natively on mobile and through React Native.
 
 ## Auto Layout or Alternatives
 
