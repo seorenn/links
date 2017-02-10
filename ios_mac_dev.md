@@ -9,6 +9,7 @@ iOS and macOS, Swift Developement Resources
 - [Auto Layout or Alternatives](#auto-layout-or-alternatives)
 - [Audio Programming](#audio-programming)
 - [Database and CoreData](#database-and-coredata)
+- [Networking](#networking)
 - [Camera](#camera)
 - [Command Line](#command-line)
 - [macOS App Tutorials](#macos-app-tutorials)
@@ -48,6 +49,7 @@ iOS and macOS, Swift Developement Resources
 - [BonMot](https://github.com/Raizlabs/BonMot): BonMot (pronounced Bon Mo, French for good word) is an iOS attributed string generation library. It abstracts away the advanced iOS typography tools, freeing you to focus on making your text beautiful.
 - [SwiftRichString](https://github.com/malcommac/SwiftRichString): Elegant & Painless Attributed Strings Management Library in Swift
 - [Handling Fonts in iOS Development, a Simpler Way](https://medium.com/compileswift/handling-fonts-in-ios-development-a-simpler-way-32d360cdc1b6#.t6k3ntquk)
+- [Rendering Code as Styled Static Text](https://medium.com/compileswift/rendering-code-as-styled-static-text-4c7479e6161b#.s9qctfvvu)
 
 ## Graphics and Animations
 
@@ -67,6 +69,7 @@ iOS and macOS, Swift Developement Resources
 - [LayoutKit](https://github.com/linkedin/LayoutKit): LayoutKit is a fast view layout library for iOS, macOS, and tvOS
 - [SnapKit](https://github.com/SnapKit/SnapKit): A Swift Auto Layout DSL for iOS & macOS
 - [EasyPeasy](https://github.com/nakiostudio/EasyPeasy): Auto Layout made easy
+- [TinyConstraints](https://github.com/roberthein/TinyConstraints): Nothing but sugar.
 
 ## Audio Programming
 
@@ -78,6 +81,10 @@ iOS and macOS, Swift Developement Resources
 
 - [Beginner's Guide to Core Data in Swift 3](https://medium.com/ios-geek-community/beginners-guide-to-core-data-in-swift-3-85292ef4edd#.v3buq0o11)
 - [Pencil](https://github.com/naru-jpn/pencil): Use of value types is recommended and we define standard values, simple structured data, application state and etc. as struct or enum. Pencil makes us store these values more easily.
+
+## Networking
+
+- [Superb](https://github.com/thoughtbot/Superb): Pluggable HTTP authentication for Swift. (eg. OAuth and etc...)
 
 ## Camera
 
