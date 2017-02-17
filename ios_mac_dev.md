@@ -42,6 +42,7 @@ iOS and macOS, Swift Developement Resources
 - [RATreeView](https://github.com/Augustyniak/RATreeView): Library providing easy-to-use interface for displaying tree strtuctures on iOS and tvOS.
 - [Eureka](https://github.com/xmartlabs/Eureka): Elegant iOS form builder in Swift
 - [KeyboardHideManager](https://github.com/bonyadmitr/KeyboardHideManager): codeless manager to hide keyboard by tapping on views for iOS written in Swift.
+- [FSPagerView](https://github.com/WenchaoD/FSPagerView): FSPagerView is an elegant Screen Slide Library implemented primarily with UICollectionView. It is extremely helpful for making Banner、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
 
 ## Text and Font
 
@@ -63,6 +64,7 @@ iOS and macOS, Swift Developement Resources
 - [Animating Constraints Using iOS 10’s New UIViewPropertyAnimator](https://medium.com/@sdrzn/animating-constraints-using-ios-10s-new-uiviewpropertyanimator-944bbb42347b#.3e63qxlkc) ()This tutorial using [SnapKit](http://snapkit.io) - An Auto Layout DSL for iOS & OSX)
 - [Hero](https://github.com/lkzhao/Hero): Hero is a library for building iOS view controller transitions. It provides a layout on top of the UIKit's cumbersome transition APIs. Making custom transitions an easy task for developers.
 - [Lottie for iOS](https://github.com/airbnb/lottie-ios): Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with bodymovin and renders the vector animations natively on mobile and through React Native.
+- [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout): A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.
 
 ## Auto Layout or Alternatives
 
