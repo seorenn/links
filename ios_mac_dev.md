@@ -65,6 +65,8 @@ iOS and macOS, Swift Developement Resources
 - [Hero](https://github.com/lkzhao/Hero): Hero is a library for building iOS view controller transitions. It provides a layout on top of the UIKit's cumbersome transition APIs. Making custom transitions an easy task for developers.
 - [Lottie for iOS](https://github.com/airbnb/lottie-ios): Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with bodymovin and renders the vector animations natively on mobile and through React Native.
 - [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout): A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.
+- [Motion](https://github.com/CosmicMind/Motion): Motion is a new tool used to create transition animations between view controllers.
+- [Dance](https://github.com/saoudrizwan/Dance): Dance is a powerful and straightforward animation framework built upon the new UIViewPropertyAnimator class introduced in iOS 10.
 
 ## Auto Layout or Alternatives
 
