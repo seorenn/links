@@ -67,6 +67,7 @@ iOS and macOS, Swift Developement Resources
 - [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout): A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.
 - [Motion](https://github.com/CosmicMind/Motion): Motion is a new tool used to create transition animations between view controllers.
 - [Dance](https://github.com/saoudrizwan/Dance): Dance is a powerful and straightforward animation framework built upon the new UIViewPropertyAnimator class introduced in iOS 10.
+- [Metal Tutorial with Swift 3 Part 1: Getting Started](https://www.raywenderlich.com/146414/metal-tutorial-swift-3-part-1-getting-started), [Part 2: Moving to 3D](https://www.raywenderlich.com/146416/metal-tutorial-swift-3-part-2-moving-3d)
 
 ## Auto Layout or Alternatives
 
