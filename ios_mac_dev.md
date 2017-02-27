@@ -135,6 +135,7 @@ iOS and macOS, Swift Developement Resources
 - [Luminous](https://github.com/andrealufino/Luminous): Luminous gives you all the (iOS) system information you need!
 - [AREK](https://github.com/ennioma/arek): AREK is a clean and easy to use wrapper over any kind of iOS permission.
 - [Wrapping C Code Within a Single Swift Package](http://www.bensnider.com/wrapping-c-code-within-a-single-swift-package.html)
+- [Develop a Swift Framework](https://medium.com/compileswift/develop-a-swift-framework-1c7fdda27bf1#.r9qep2vb7)
 
 ## Server Side
 
