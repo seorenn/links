@@ -75,6 +75,7 @@ iOS and macOS, Swift Developement Resources
 - [SnapKit](https://github.com/SnapKit/SnapKit): A Swift Auto Layout DSL for iOS & macOS
 - [EasyPeasy](https://github.com/nakiostudio/EasyPeasy): Auto Layout made easy
 - [TinyConstraints](https://github.com/roberthein/TinyConstraints): Nothing but sugar.
+- [StoryboardConstraint](https://github.com/dimix/StoryboardConstraint): A simple way to use programmatically Autolayout Constraint created in Storyboard.
 
 ## Audio Programming
 
@@ -87,6 +88,7 @@ iOS and macOS, Swift Developement Resources
 
 - [Beginner's Guide to Core Data in Swift 3](https://medium.com/ios-geek-community/beginners-guide-to-core-data-in-swift-3-85292ef4edd#.v3buq0o11)
 - [Pencil](https://github.com/naru-jpn/pencil): Use of value types is recommended and we define standard values, simple structured data, application state and etc. as struct or enum. Pencil makes us store these values more easily.
+- [Seam](https://github.com/nofelmahmood/Seam): Seam allows you to sync your CoreData Stores with CloudKit.
 
 ## Networking
 
