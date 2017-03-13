@@ -43,6 +43,8 @@ iOS and macOS, Swift Developement Resources
 - [Eureka](https://github.com/xmartlabs/Eureka): Elegant iOS form builder in Swift
 - [KeyboardHideManager](https://github.com/bonyadmitr/KeyboardHideManager): codeless manager to hide keyboard by tapping on views for iOS written in Swift.
 - [FSPagerView](https://github.com/WenchaoD/FSPagerView): FSPagerView is an elegant Screen Slide Library implemented primarily with UICollectionView. It is extremely helpful for making Banner、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
+- [BPStatusBarAlert](https://github.com/ppth0608/BPStatusBarAlert): BPStatusBarAlert is a library that allows you to easily make text-based alert that appear on the status bar and below navigation bar. 
+- [LOpenPanelAccessoryView](https://github.com/Kito0615/LOpenPanelAccessoryView): This open panel with filter. You can use this Panel set filter easily, when your app support too many types of files. (macOS only)
 
 ## Text and Font
 
