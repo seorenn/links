@@ -85,6 +85,7 @@ iOS and macOS, Swift Developement Resources
 - [RhythmBox](https://github.com/manuelescrig/RhythmBox): A Rhythm Box System for your iOS app. The easiest way to create Music Rhythm Patterns in Swift.
 - [플레이그라운드로 배우는 AudioKit](https://outofbedlam.github.io/swift/2016/12/02/AudioKit/)
 - [ReceiveMIDI](https://github.com/gbevin/ReceiveMIDI): ReceiveMIDI is a multi-platform command-line tool makes it very easy to quickly receive and monitor MIDI messages from MIDI devices on your computer.
+- [Speech Recognition with Swift & iOS 10](https://medium.com/ios-os-x-development/speech-recognition-with-swift-in-ios-10-50d5f4e59c48#.xx7ugosj8)
 
 ## Database and CoreData
 
