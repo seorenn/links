@@ -97,6 +97,7 @@ iOS and macOS, Swift Developement Resources
 
 - [Superb](https://github.com/thoughtbot/Superb): Pluggable HTTP authentication for Swift. (eg. OAuth and etc...)
 - [Merhaba](https://github.com/abdullahselek/Merhaba): Bonjour networking for discovery and connection between iOS, macOS and tvOS devices.
+- [Bleu](https://github.com/1amageek/Bleu): Bleu is a library that can handle CoreBluetooth easily.
 
 ## Camera
 
