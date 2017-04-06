@@ -16,6 +16,7 @@ iOS and macOS, Swift Developement Resources
 - [Xcode](#xcode)
 - [Tests](#tests)
 - [Other Open Source Applications](#other-open-source-applications)
+- [Scripting](#scripting)
 - [Etc](#etc)
 - [Server Side](#server-side)
 
@@ -129,6 +130,7 @@ iOS and macOS, Swift Developement Resources
 ## Tests
 
 - [SwiftMonkey](https://github.com/zalando/SwiftMonkey): This project is a framework for generating randomised user input in iOS apps. This kind of monkey testing is useful for stress-testing apps and finding rare crashes.
+- [TDD in Xcode Playgrounds](https://m.pardel.net/tdd-in-xcode-playgrounds-544a95db11e2<Paste>)
 
 ## Other Open Source Applications and Samples
 
@@ -136,6 +138,10 @@ iOS and macOS, Swift Developement Resources
 - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic): macOS audio utility
 - [MyTabbedView](https://github.com/Dis3buted/MyTabbedView): Just plain implementation of tabbed windows, single window app, storyboard, using newWindowForTab
 - [iina](https://github.com/lhc70000/iina): The modern video player for macOS. https://lhc70000.github.io/iina/
+
+## Scripting
+
+- [How to Make a Web Crawler in Swift](https://medium.com/swiftly-swift/how-to-make-a-web-crawler-in-swift-3ed4977a181b)
 
 ## Etc
 
