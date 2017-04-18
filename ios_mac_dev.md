@@ -79,6 +79,7 @@ iOS and macOS, Swift Developement Resources
 - [EasyPeasy](https://github.com/nakiostudio/EasyPeasy): Auto Layout made easy
 - [TinyConstraints](https://github.com/roberthein/TinyConstraints): Nothing but sugar.
 - [StoryboardConstraint](https://github.com/dimix/StoryboardConstraint): A simple way to use programmatically Autolayout Constraint created in Storyboard.
+- [오토 레이아웃으로 iOS 앱 쉽게 개발하기](https://realm.io/kr/news/ios-autolayout/)
 
 ## Audio Programming
 
