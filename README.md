@@ -13,3 +13,4 @@ Seorenn's link collections
 
 - [macOS Tips](https://github.com/seorenn/links/blob/master/macos.md)
 - [Games](https://github.com/seorenn/links/blob/master/game.md)
+- [Music Production](https://github.com/seorenn/links/blob/master/musicproduct.md)
