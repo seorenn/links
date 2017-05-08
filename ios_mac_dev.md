@@ -54,6 +54,7 @@ iOS and macOS, Swift Developement Resources
 - [SwiftRichString](https://github.com/malcommac/SwiftRichString): Elegant & Painless Attributed Strings Management Library in Swift
 - [Handling Fonts in iOS Development, a Simpler Way](https://medium.com/compileswift/handling-fonts-in-ios-development-a-simpler-way-32d360cdc1b6#.t6k3ntquk)
 - [Rendering Code as Styled Static Text](https://medium.com/compileswift/rendering-code-as-styled-static-text-4c7479e6161b#.s9qctfvvu)
+- [iOS Fonts](http://iosfonts.com): A Place for Happy Typography. Every font. Every iOS version.
 
 ## Graphics and Animations
 
