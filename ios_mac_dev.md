@@ -44,7 +44,7 @@ iOS and macOS, Swift Developement Resources
 - [Eureka](https://github.com/xmartlabs/Eureka): Elegant iOS form builder in Swift
 - [KeyboardHideManager](https://github.com/bonyadmitr/KeyboardHideManager): codeless manager to hide keyboard by tapping on views for iOS written in Swift.
 - [FSPagerView](https://github.com/WenchaoD/FSPagerView): FSPagerView is an elegant Screen Slide Library implemented primarily with UICollectionView. It is extremely helpful for making Banner、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
-- [BPStatusBarAlert](https://github.com/ppth0608/BPStatusBarAlert): BPStatusBarAlert is a library that allows you to easily make text-based alert that appear on the status bar and below navigation bar. 
+- [BPStatusBarAlert](https://github.com/ppth0608/BPStatusBarAlert): BPStatusBarAlert is a library that allows you to easily make text-based alert that appear on the status bar and below navigation bar.
 - [LOpenPanelAccessoryView](https://github.com/Kito0615/LOpenPanelAccessoryView): This open panel with filter. You can use this Panel set filter easily, when your app support too many types of files. (macOS only)
 
 ## Text and Font
@@ -72,6 +72,7 @@ iOS and macOS, Swift Developement Resources
 - [Motion](https://github.com/CosmicMind/Motion): Motion is a new tool used to create transition animations between view controllers.
 - [Dance](https://github.com/saoudrizwan/Dance): Dance is a powerful and straightforward animation framework built upon the new UIViewPropertyAnimator class introduced in iOS 10.
 - [Metal Tutorial with Swift 3 Part 1: Getting Started](https://www.raywenderlich.com/146414/metal-tutorial-swift-3-part-1-getting-started), [Part 2: Moving to 3D](https://www.raywenderlich.com/146416/metal-tutorial-swift-3-part-2-moving-3d)
+- [Increate Readability For UIView Animation Code through UIView Extension](https://medium.com/@audrl1010/increate-readability-for-uiview-animation-code-through-uiview-extension-1ea25ae3d84e) (Korean/한국어)
 
 ## Auto Layout or Alternatives
 
