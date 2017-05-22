@@ -12,3 +12,4 @@ Etc Development Resources
 # Shell
 
 - [Shell Scripts Matter](https://dev.to/thiht/shell-scripts-matter)
+- [쉘 스크립트를 만드는 당신, ShellCheck을 써라!](https://blog.weirdx.io/post/43810)
