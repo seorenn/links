@@ -5,6 +5,7 @@ Web Development Resources
 - [CSS](#css)
 - [Tools](#tools)
 - [WebAssembly](#webassembly)
+- [Debug and Etc](#debug-and-etc)
 
 ## Tutorials
 
@@ -22,3 +23,7 @@ Web Development Resources
 ## WebAssembly
 
 - [How to get a performance boost using WebAssembly](https://hackernoon.com/how-to-get-a-performance-boost-using-webassembly-8844ec6dd665#.dyudpmbir)
+
+## Debug and Etc
+
+- [Headless Chrome의 사용방법](https://blog.outsider.ne.kr/1291): 웹사이트 스크린샷을 찍을 때 유용하게 쓸 수 있다.
