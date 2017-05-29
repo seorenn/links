@@ -35,6 +35,7 @@ iOS and macOS, Swift Developement Resources
 - [Learn How to Build an iMessage App with Swift](https://medium.com/swift-programming/learn-how-to-build-an-imessage-app-with-swift-7b106ce9b033#.duovz9q21): Messages Framework
 - [Refresh Control Changes in iOS 10](http://useyourloaf.com/blog/refresh-control-changes-in-ios-10/): UIRefreshControl
 - [Introduction to iOS Adaptive Layouts](https://hackernoon.com/introduction-to-ios-adaptive-layouts-11dce7cf29e8)
+- [iOS: How to build a Table View with Collapsible Sections](https://medium.com/ios-os-x-development/ios-how-to-build-a-table-view-with-collapsible-sections-96badf3387d0)
 
 ## UI Components
 
