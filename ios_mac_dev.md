@@ -23,6 +23,7 @@ iOS and macOS, Swift Developement Resources
 ## Swift Language
 
 - [Swift Programming Language Evolution: Proposal Status](https://apple.github.io/swift-evolution/)
+- [Encoding and Decoding in Swift 4](https://medium.com/compileswift/encoding-and-decoding-in-swift-4-f82114897862): JSONEncoder and JSONDecoder!
 
 ## iOS 10 Informations and Tutorials
 
