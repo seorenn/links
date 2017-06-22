@@ -134,6 +134,7 @@ iOS and macOS, Swift Developement Resources
 - [Some Practical Uses for Xcode Build Schemes and Build Configurations (Swift)](https://medium.com/@theobendixson/some-practical-uses-for-xcode-build-schemes-and-build-configurations-swift-e50d15a1304f#.qrtdvnn2e)
 - [My Favorite Xcode 8 Shortcuts Part 1](https://medium.com/ios-geek-community/bobs-favorite-xcode-8-shortcuts-part-1-3-36381e07284d#.rd2jsfqv9), [Part 2](https://medium.com/ios-geek-community/bobs-favorite-xcode-shortcuts-part-2-3-c076e506cd20#.l7v06qkfp), [Part 3](https://medium.com/ios-geek-community/bobs-favorite-xcode-8-shortcuts-part-3-3-afd2bf590442#.lqauysgj8)
 - [Guide To Organizing Your iOS Debug, Development, and Release States With .xcconfig Files](https://hackernoon.com/a-cleaner-way-to-organize-your-ios-debug-development-and-release-distributions-6b5eb6a48356): Storing API Keys and Other Constants in Swift 3
+- [Playground 100% 활용하기](https://news.realm.io/kr/news/swift-playground/)
 
 ## Tests
 
