@@ -50,6 +50,7 @@ iOS and macOS, Swift Developement Resources
 - [BPStatusBarAlert](https://github.com/ppth0608/BPStatusBarAlert): BPStatusBarAlert is a library that allows you to easily make text-based alert that appear on the status bar and below navigation bar.
 - [LOpenPanelAccessoryView](https://github.com/Kito0615/LOpenPanelAccessoryView): This open panel with filter. You can use this Panel set filter easily, when your app support too many types of files. (macOS only)
 - [AutoKeyboard](https://github.com/chanonly123/AutoKeyboard): Auto Keyboard handling for iOS written in Swift 3
+- [LGButton](https://github.com/loregr/LGButton): A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.
 
 ## Text and Font
 
