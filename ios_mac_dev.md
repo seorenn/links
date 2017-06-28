@@ -56,6 +56,7 @@ iOS and macOS, Swift Developement Resources
 - [LOpenPanelAccessoryView](https://github.com/Kito0615/LOpenPanelAccessoryView): This open panel with filter. You can use this Panel set filter easily, when your app support too many types of files. (macOS only)
 - [AutoKeyboard](https://github.com/chanonly123/AutoKeyboard): Auto Keyboard handling for iOS written in Swift 3
 - [LGButton](https://github.com/loregr/LGButton): A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.
+- [SplitViewDragAndDrop](https://github.com/MarioIannotta/SplitViewDragAndDrop): Easily add drag and drop to pass data between your apps in split view mode (iOS)
 
 ## Text and Font
 
@@ -106,6 +107,7 @@ iOS and macOS, Swift Developement Resources
 - [Beginner's Guide to Core Data in Swift 3](https://medium.com/ios-geek-community/beginners-guide-to-core-data-in-swift-3-85292ef4edd#.v3buq0o11)
 - [Pencil](https://github.com/naru-jpn/pencil): Use of value types is recommended and we define standard values, simple structured data, application state and etc. as struct or enum. Pencil makes us store these values more easily.
 - [Seam](https://github.com/nofelmahmood/Seam): Seam allows you to sync your CoreData Stores with CloudKit.
+- [Upgrading an iOS App From Local Storage to CloudKit](https://blog.propellerlabs.co/upgrading-an-ios-app-from-local-storage-to-cloudkit-59f88f02ad59)
 
 ## Networking
 
@@ -141,6 +143,8 @@ iOS and macOS, Swift Developement Resources
 - [My Favorite Xcode 8 Shortcuts Part 1](https://medium.com/ios-geek-community/bobs-favorite-xcode-8-shortcuts-part-1-3-36381e07284d#.rd2jsfqv9), [Part 2](https://medium.com/ios-geek-community/bobs-favorite-xcode-shortcuts-part-2-3-c076e506cd20#.l7v06qkfp), [Part 3](https://medium.com/ios-geek-community/bobs-favorite-xcode-8-shortcuts-part-3-3-afd2bf590442#.lqauysgj8)
 - [Guide To Organizing Your iOS Debug, Development, and Release States With .xcconfig Files](https://hackernoon.com/a-cleaner-way-to-organize-your-ios-debug-development-and-release-distributions-6b5eb6a48356): Storing API Keys and Other Constants in Swift 3
 - [Playground 100% 활용하기](https://news.realm.io/kr/news/swift-playground/)
+- [How to visualize reusable xibs in storyboards using IBDesignable](https://medium.com/zenchef-tech-and-product/how-to-visualize-reusable-xibs-in-storyboards-using-ibdesignable-c0488c7f525d)
+- [TDD in Xcode Playgrounds](https://m.pardel.net/tdd-in-xcode-playgrounds-544a95db11e2)
 
 ## Tests
 
