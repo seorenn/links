@@ -161,6 +161,7 @@ iOS and macOS, Swift Developement Resources
 ## Scripting
 
 - [How to Make a Web Crawler in Swift](https://medium.com/swiftly-swift/how-to-make-a-web-crawler-in-swift-3ed4977a181b)
+- [ScriptKit](https://github.com/TofPlay/ScriptKit): ScriptKit is a framework to write command line tools.
 
 ## Etc
 
