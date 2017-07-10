@@ -57,6 +57,7 @@ iOS and macOS, Swift Developement Resources
 - [AutoKeyboard](https://github.com/chanonly123/AutoKeyboard): Auto Keyboard handling for iOS written in Swift 3
 - [LGButton](https://github.com/loregr/LGButton): A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.
 - [SplitViewDragAndDrop](https://github.com/MarioIannotta/SplitViewDragAndDrop): Easily add drag and drop to pass data between your apps in split view mode (iOS)
+- [ParallaxHeader](https://github.com/romansorochak/ParallaxHeader): Simple way to add parallax header to UIScrollView/UITableView written in Swift.
 
 ## Text and Font
 
