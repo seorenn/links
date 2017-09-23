@@ -43,6 +43,9 @@ iOS and macOS, Swift Developement Resources
 ## iOS 11 Informations and Tutorials
 
 - [iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples): Examples of new iOS 11 APIs
+- [iPhone X: Dealing with Home Indicator](https://medium.com/the-traveled-ios-developers-guide/iphone-x-dealing-with-home-indicator-2e8e47f5647f)
+- [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit): Simple project to detect objects and display 3D labels above them in AR. This serves as a basic template for an ARKit project to use CoreML
+- [How iOS Apps Adapt to the iPhone X Screen Size](https://medium.com/@hacknicity/how-ios-apps-adapt-to-the-iphone-x-screen-size-a00bd109bbb9)
 
 ## Another Tutorials
 
