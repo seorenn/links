@@ -43,6 +43,9 @@ iOS and macOS, Swift Developement Resources
 ## iOS 11 Informations and Tutorials
 
 - [iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples): Examples of new iOS 11 APIs
+- [iPhone X: Dealing with Home Indicator](https://medium.com/the-traveled-ios-developers-guide/iphone-x-dealing-with-home-indicator-2e8e47f5647f)
+- [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit): Simple project to detect objects and display 3D labels above them in AR. This serves as a basic template for an ARKit project to use CoreML
+- [How iOS Apps Adapt to the iPhone X Screen Size](https://medium.com/@hacknicity/how-ios-apps-adapt-to-the-iphone-x-screen-size-a00bd109bbb9)
 
 ## Another Tutorials
 
@@ -99,6 +102,7 @@ iOS and macOS, Swift Developement Resources
 - [TinyConstraints](https://github.com/roberthein/TinyConstraints): Nothing but sugar.
 - [StoryboardConstraint](https://github.com/dimix/StoryboardConstraint): A simple way to use programmatically Autolayout Constraint created in Storyboard.
 - [오토 레이아웃으로 iOS 앱 쉽게 개발하기](https://realm.io/kr/news/ios-autolayout/)
+- [Auto Layout #1](https://kxcoding.com/blog/auto-layout-overview), [#2](https://kxcoding.com/blog/auto-layout-with-storyboard), [#3](https://kxcoding.com/blog/auto-layout-with-code)
 
 ## Audio Programming
 
