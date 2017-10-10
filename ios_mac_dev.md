@@ -151,6 +151,7 @@ iOS and macOS, Swift Developement Resources
 - [Playground 100% 활용하기](https://news.realm.io/kr/news/swift-playground/)
 - [How to visualize reusable xibs in storyboards using IBDesignable](https://medium.com/zenchef-tech-and-product/how-to-visualize-reusable-xibs-in-storyboards-using-ibdesignable-c0488c7f525d)
 - [TDD in Xcode Playgrounds](https://m.pardel.net/tdd-in-xcode-playgrounds-544a95db11e2)
+- [Debugging Swift code with LLDB](https://medium.com/flawless-app-stories/debugging-swift-code-with-lldb-b30c5cf2fd49)
 
 ## Tests
 
