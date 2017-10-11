@@ -16,6 +16,7 @@ Python Development Resources
 - [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)
 - [pyenv, virtualenv, autoenv를 활용한 자동화 구현하기](http://blog.everypython.com/post/14/)
 - [Pipenv](https://github.com/kennethreitz/pipenv): Pipenv is an experimental project that aims to bring the best of all packaging worlds to the Python world. It harnesses Pipfile, pip, and virtualenv into one single toolchain. It features very pretty terminal colors.
+- [Python 개발환경 구성](https://blog.outsider.ne.kr/1324)
 
 ## Mathmatics and Sciences
 
@@ -29,3 +30,4 @@ Python Development Resources
 ## Flask
 
 - [Flask-babel을 통한 i18n(Internationalization)](https://urangurang.github.io/Flask-babel/)
+- [Flask 애플리케이션 개발 환경 구성](https://blog.outsider.ne.kr/1325)

@@ -114,6 +114,7 @@ iOS and macOS, Swift Developement Resources
 
 ## Database and CoreData
 
+- [Hello CoreData!](https://medium.com/ios-os-x-development/hello-coredata-673120d57a09)
 - [Beginner's Guide to Core Data in Swift 3](https://medium.com/ios-geek-community/beginners-guide-to-core-data-in-swift-3-85292ef4edd#.v3buq0o11)
 - [Pencil](https://github.com/naru-jpn/pencil): Use of value types is recommended and we define standard values, simple structured data, application state and etc. as struct or enum. Pencil makes us store these values more easily.
 - [Seam](https://github.com/nofelmahmood/Seam): Seam allows you to sync your CoreData Stores with CloudKit.
