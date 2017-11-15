@@ -183,6 +183,7 @@ iOS and macOS, Swift Developement Resources
 - [Wrapping C Code Within a Single Swift Package](http://www.bensnider.com/wrapping-c-code-within-a-single-swift-package.html)
 - [Develop a Swift Framework](https://medium.com/compileswift/develop-a-swift-framework-1c7fdda27bf1#.r9qep2vb7)
 - [Adding Continuous Integration to a Swift project](https://medium.com/@johnsundell/adding-continuous-integration-to-a-swift-project-4c99252eedb0)
+- [Building an iOS hardware app](https://hackernoon.com/building-an-ios-hardware-app-401eb4869012)
 
 ## Server Side
 
