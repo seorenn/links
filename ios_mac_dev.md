@@ -46,6 +46,7 @@ iOS and macOS, Swift Developement Resources
 - [iPhone X: Dealing with Home Indicator](https://medium.com/the-traveled-ios-developers-guide/iphone-x-dealing-with-home-indicator-2e8e47f5647f)
 - [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit): Simple project to detect objects and display 3D labels above them in AR. This serves as a basic template for an ARKit project to use CoreML
 - [How iOS Apps Adapt to the iPhone X Screen Size](https://medium.com/@hacknicity/how-ios-apps-adapt-to-the-iphone-x-screen-size-a00bd109bbb9)
+- [How to build resizing Image in Navigation Bar with Large Title](https://blog.uptech.team/how-to-build-resizing-image-in-navigation-bar-with-large-title-8ba2e8bcb840)
 
 ## Another Tutorials
 
@@ -157,6 +158,7 @@ iOS and macOS, Swift Developement Resources
 - [How to visualize reusable xibs in storyboards using IBDesignable](https://medium.com/zenchef-tech-and-product/how-to-visualize-reusable-xibs-in-storyboards-using-ibdesignable-c0488c7f525d)
 - [TDD in Xcode Playgrounds](https://m.pardel.net/tdd-in-xcode-playgrounds-544a95db11e2)
 - [Debugging Swift code with LLDB](https://medium.com/flawless-app-stories/debugging-swift-code-with-lldb-b30c5cf2fd49)
+- [Finding Non-localized Strings in xcode](https://medium.com/@abhimuralidharan/finding-non-localized-strings-in-xcode-f69e74bc05d4)
 
 ## Tests
 
