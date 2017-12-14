@@ -26,6 +26,7 @@ iOS and macOS, Swift Developement Resources
 
 - [Swift Programming Language Evolution: Proposal Status](https://apple.github.io/swift-evolution/)
 - [Encoding and Decoding in Swift 4](https://medium.com/compileswift/encoding-and-decoding-in-swift-4-f82114897862): JSONEncoder and JSONDecoder!
+- [Swift가 제공하는 여러 포인터 타입들과 동작 방식](https://academy.realm.io/kr/posts/nate-cook-tryswift-tokyo-unsafe-swift-and-pointer-types/)
 
 ## iOS 10 Informations and Tutorials
 
