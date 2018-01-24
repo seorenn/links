@@ -187,6 +187,7 @@ iOS and macOS, Swift Developement Resources
 - [Develop a Swift Framework](https://medium.com/compileswift/develop-a-swift-framework-1c7fdda27bf1#.r9qep2vb7)
 - [Adding Continuous Integration to a Swift project](https://medium.com/@johnsundell/adding-continuous-integration-to-a-swift-project-4c99252eedb0)
 - [Building an iOS hardware app](https://hackernoon.com/building-an-ios-hardware-app-401eb4869012)
+- [iOS 앱 제출시 나오는 연말 자가 분류 보고서란](https://github.com/baecheese/Spade-Work-Record/blob/master/ISSUES/What%20is%20the%20year-end%20Self%20Classification%20Report.md): 앱 배포(혹은 테스트 업로드 시) ATS 혹은 HTTPS 를 호출하는 경우의 응답에 대하여...
 
 ## Server Side
 
