@@ -160,6 +160,7 @@ iOS and macOS, Swift Developement Resources
 - [TDD in Xcode Playgrounds](https://m.pardel.net/tdd-in-xcode-playgrounds-544a95db11e2)
 - [Debugging Swift code with LLDB](https://medium.com/flawless-app-stories/debugging-swift-code-with-lldb-b30c5cf2fd49)
 - [Finding Non-localized Strings in xcode](https://medium.com/@abhimuralidharan/finding-non-localized-strings-in-xcode-f69e74bc05d4)
+- [Advanced debugging with Xcode](https://medium.com/@vin.pradeilles/advanced-debugging-with-xcode-5e6c8dabd311)
 
 ## Tests
 
