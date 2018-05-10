@@ -145,6 +145,7 @@ iOS and macOS, Swift Developement Resources
 
 - [A Sidebar with collapsable sub-views for macOS in Swift](http://jpopham.github.io/01-sidebar-swift-OSX/)
 - [OSX Dev Daily (Youtube Playlist)](https://www.youtube.com/playlist?list=PLU03ExiIcAUsqTHAiZTY-zV8B5bfRHqg9)
+- [Creating a Custom macOS Sharing Service in Swift](https://medium.com/@hawkfalcon/creating-a-custom-macos-sharing-service-in-swift-e7e0e46cbdd3)
 
 ## Xcode
 
