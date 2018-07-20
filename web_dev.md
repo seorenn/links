@@ -7,6 +7,7 @@ Web Development Resources
 - [Tools](#tools)
 - [WebAssembly](#webassembly)
 - [Debug and Etc](#debug-and-etc)
+- [AWS](#aws)
 
 ## Tutorials
 
@@ -33,3 +34,7 @@ Web Development Resources
 ## Debug and Etc
 
 - [Headless Chrome의 사용방법](https://blog.outsider.ne.kr/1291): 웹사이트 스크린샷을 찍을 때 유용하게 쓸 수 있다.
+
+## AWS
+
+- [아마존 웹 서비스 계정 생성 후 해야하는 IAM 보안 조치](https://www.44bits.io/ko/post/first_actions_for_setting_secure_account): 루트 사용자와 IAM 사용자의 차이
